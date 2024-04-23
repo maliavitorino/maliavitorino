@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Malia Vitorino~
 
-- 🌱 Estudando Python
+- 🌱 Estudando Java e Python
 - 😄 Pronouns: ela/dela
 - mariaangela.vitorino22@gmail.com 
 
